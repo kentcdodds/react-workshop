@@ -144,9 +144,9 @@ let Users = () => {
 }
 
 let UserProfile = (props) => {
-  let id = props.routeParams.userId
+  let id = parseInt(props.routeParams.userId)
   let user = USERS.filter((user) => {
-    return user.id == id;
+    return user.id === id;
   })[0];
 
   return (
