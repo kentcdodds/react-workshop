@@ -1,10 +1,5 @@
 language: node_js
-os:
-  - linux
-  - osx
-node_js:
-  - "7"
-  - "6"
+node_js: 6
 script: yarn run setup
 cache:
   yarn: true
