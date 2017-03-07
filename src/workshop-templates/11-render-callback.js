@@ -12,7 +12,7 @@ import axios from 'axios'
 // As of version 4 (alpha) of react-router, it follows this pattern.
 //
 // In this exercise, we're going to refactor the data-fetching example code to keep all the
-// state and imparative code in one component, and all the UI rendering in a stateless,
+// state and imperative code in one component, and all the UI rendering in a stateless,
 // declarative function component.
 //
 // Example:
@@ -61,7 +61,7 @@ import axios from 'axios'
 //
 // Ultimately, you can take this further to a generic Fetch component which can making
 // subsequent requests on prop changes, caching, multiple requests in parallel, etc.
-// Then you can write all your imparative tests around that generic Fetch component
+// Then you can write all your imperative tests around that generic Fetch component
 // and the rest of your components can be much more declarative and more easily tested
 //
 // Exercise:

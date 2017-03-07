@@ -2,7 +2,7 @@ import React, {PropTypes, Component} from 'react'
 import axios from 'axios'
 
 // WORKSHOP_START
-// State and imparative code are two of the things that makes building applications more difficult.
+// State and imperative code are two of the things that makes building applications more difficult.
 // And we haven't even started talking about context yet!
 // The more components we can have that have no state and completely declarative the better.
 // Doing this makes things easier to test and maintain.
