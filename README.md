@@ -3,7 +3,7 @@
 [![Build Status][build-badge]][build]
 [![Dependencies][dependencyci-badge]][dependencyci]
 [![MIT License][license-badge]][LICENSE]
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors)
 [![PRs Welcome][prs-badge]][prs]
 
 [![Donate][donate-badge]][donate]
@@ -87,8 +87,8 @@ Check out [react-github-profile](https://github.com/kentcdodds/react-github-prof
 Thanks goes to these people ([emoji key][emojis]):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars.githubusercontent.com/u/199035?v=3" width="100px;"/><br /><sub>Matt Zabriskie</sub>](http://twitter.com/mzabriskie)<br />[💻](https://github.com/kentcdodds/react-workshop/commits?author=mzabriskie) | [<img src="https://avatars.githubusercontent.com/u/1500684?v=3" width="100px;"/><br /><sub>Kent C. Dodds</sub>](https://kentcdodds.com)<br />[💻](https://github.com/kentcdodds/react-workshop/commits?author=kentcdodds) 🚇 👀 [⚠️](https://github.com/kentcdodds/react-workshop/commits?author=kentcdodds) | [<img src="https://avatars.githubusercontent.com/u/13559161?v=3" width="100px;"/><br /><sub>Jordan Nielson</sub>](https://github.com/jnielson94)<br />[💻](https://github.com/kentcdodds/react-workshop/commits?author=jnielson94) | [<img src="https://avatars.githubusercontent.com/u/1863771?v=3" width="100px;"/><br /><sub>Siddharth Kshetrapal</sub>](https://github.com/siddharthkp)<br />🚇 | [<img src="https://avatars.githubusercontent.com/u/5465958?v=3" width="100px;"/><br /><sub>Ray Gesualdo</sub>](https://github.com/raygesualdo)<br />[💻](https://github.com/kentcdodds/react-workshop/commits?author=raygesualdo) |
-| :---: | :---: | :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/199035?v=3" width="100px;"/><br /><sub>Matt Zabriskie</sub>](http://twitter.com/mzabriskie)<br />[💻](https://github.com/kentcdodds/react-workshop/commits?author=mzabriskie) | [<img src="https://avatars.githubusercontent.com/u/1500684?v=3" width="100px;"/><br /><sub>Kent C. Dodds</sub>](https://kentcdodds.com)<br />[💻](https://github.com/kentcdodds/react-workshop/commits?author=kentcdodds) 🚇 👀 [⚠️](https://github.com/kentcdodds/react-workshop/commits?author=kentcdodds) | [<img src="https://avatars.githubusercontent.com/u/13559161?v=3" width="100px;"/><br /><sub>Jordan Nielson</sub>](https://github.com/jnielson94)<br />[💻](https://github.com/kentcdodds/react-workshop/commits?author=jnielson94) | [<img src="https://avatars.githubusercontent.com/u/1863771?v=3" width="100px;"/><br /><sub>Siddharth Kshetrapal</sub>](https://github.com/siddharthkp)<br />🚇 | [<img src="https://avatars.githubusercontent.com/u/5465958?v=3" width="100px;"/><br /><sub>Ray Gesualdo</sub>](https://github.com/raygesualdo)<br />[💻](https://github.com/kentcdodds/react-workshop/commits?author=raygesualdo) | [<img src="https://avatars2.githubusercontent.com/u/8154172?v=3" width="100px;"/><br /><sub>Igor Konovalov</sub>](https://github.com/IgorKonovalov)<br />[💻](https://github.com/kentcdodds/react-workshop/commits?author=IgorKonovalov) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors][all-contributors] specification. Contributions of any kind welcome!
