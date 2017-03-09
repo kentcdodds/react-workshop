@@ -30,7 +30,7 @@ import React from 'react'
 //
 // Here's an example of a component that uses state:
 // ```
-// class ClickCounter extends Component {
+// class ClickCounter extends React.Component {
 //   state = {clicks: 0} // initialize the state (using Public Class Fields, could be in the constructor)
 //
 //   handleButtonClick = () => {
@@ -78,6 +78,10 @@ class StopWatch extends React.Component {
 
   _now = 0
   _timer = null
+
+  componentWillUnmount() {
+    this.stop()
+  }
 
   handleRunClick = () => {
     if (this.state.running) {

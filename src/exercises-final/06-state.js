@@ -11,6 +11,10 @@ class StopWatch extends React.Component {
   _now = 0
   _timer = null
 
+  componentWillUnmount() {
+    this.stop()
+  }
+
   handleRunClick = () => {
     if (this.state.running) {
       this.stop()
