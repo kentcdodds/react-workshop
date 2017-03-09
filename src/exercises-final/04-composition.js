@@ -63,6 +63,11 @@ function Icon(props) {
   )
 }
 
+Icon.propTypes = {
+  href: PropTypes.string.isRequired,
+  type: PropTypes.string.isRequired
+}
+
 export const example = () => (
   <Person
     name="Kent C. Dodds"

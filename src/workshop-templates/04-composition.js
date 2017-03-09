@@ -71,6 +71,11 @@ function Icon(props) {
   )
 }
 
+Icon.propTypes = {
+  href: PropTypes.string.isRequired,
+  type: PropTypes.string.isRequired
+}
+
 // WORKSHOP_START
 export const example = () => (
   <div>

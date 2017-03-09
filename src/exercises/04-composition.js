@@ -52,6 +52,11 @@ function Icon(props) {
   )
 }
 
+Icon.propTypes = {
+  href: PropTypes.string.isRequired,
+  type: PropTypes.string.isRequired
+}
+
 export const example = () => (
   <div>
     Render a {`<Person />`} component here
