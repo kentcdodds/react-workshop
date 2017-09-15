@@ -19,6 +19,12 @@
 - [Matt Zabriskie][matt] for his [react-workshop][original-repo] upon which this one is based.
 - [React Docs](http://facebook.github.io/react). Some examples have been lifted from there.
 
+## Note
+
+This repository has been used to teach React several times and has been updated a few times as well.
+If you're following along from [this recording](https://www.youtube.com/watch?v=VZaQfb2y6BI),
+then you can get to the right spot by running `git checkout aca94d7` before running the setup script. 
+
 ## Setup
 
 You need to have the latest [`node`][node], [`npm`][npm], and [`git`][git] installed. Then run:
