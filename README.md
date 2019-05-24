@@ -65,7 +65,7 @@ If you see any errors, read the output and try to follow any instructions. If th
 2. PropTypes - [`src/exercises/02-prop-types.js`](https://github.com/kentcdodds/react-workshop/blob/master/src/exercises/02-prop-types.js)
 3. Styling - [`src/exercises/03-styling.js`](https://github.com/kentcdodds/react-workshop/blob/master/src/exercises/03-styling.js)
 4. Composition - [`src/exercises/04-composition.js`](https://github.com/kentcdodds/react-workshop/blob/master/src/exercises/04-composition.js)
-5. State - [`src/exercises/05-state.js`](https://github.com/kentcdodds/react-workshop/blob/master/src/exercises/05-state.js)
+5. Component API - [`src/exercises/05-component-api.js`](https://github.com/kentcdodds/react-workshop/blob/master/src/exercises/05-component-api.js)
 6. State - [`src/exercises/06-state.js`](https://github.com/kentcdodds/react-workshop/blob/master/src/exercises/06-state.js)
 7. Uncontrolled Form - [`src/exercises/07-uncontrolled-form.js`](https://github.com/kentcdodds/react-workshop/blob/master/src/exercises/07-uncontrolled-form.js)
 8. Controlled Form - [`src/exercises/08-controlled-form.js`](https://github.com/kentcdodds/react-workshop/blob/master/src/exercises/08-controlled-form.js)
